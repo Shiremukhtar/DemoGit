@@ -22,6 +22,7 @@ namespace DemoGit
             int i = 10;
             int x = 50;
             int sum = i + x;
+            int all = sum + i;
         }
     }
 }
