@@ -20,6 +20,8 @@ namespace DemoGit
         private void button1_Click(object sender, EventArgs e)
         {
             int i = 10;
+            int x = 50;
+            int sum = i + x;
         }
     }
 }
